@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm **[Justin Wu]**, an undergraduate at the **School of Mathematical Sciences, Peking University (since 2024)**.  
+I'm **Justin Wu**, an undergraduate at the **School of Mathematical Sciences, Peking University (since 2024)**.  
 Currently, I'm leading the **Academic Department of the Student Union**, building its official website and organizing academic activities.  
 
 ---
@@ -30,9 +30,9 @@ Currently, I'm leading the **Academic Department of the Student Union**, buildin
 ---
 
 ## ✨ Goals
-- Combine **mathematical thinking** with **creative programming**  
+- Combine **mathematical thinking** with **Machine Learning**  
 - Build projects that are **rigorous, useful, and fun**  
-- Connect with developers and researchers worldwide 🌍  
+- Let more students in pku know about **Academic Department of the Student Union**  🌍  
 
 ---
 
