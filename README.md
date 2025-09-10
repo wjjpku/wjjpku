@@ -23,9 +23,9 @@ Currently, I'm leading the **Academic Department of the Student Union**, buildin
 ---
 
 ## 📈 GitHub Stats
-![Justin Wu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
+![Justin Wu's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjjpku&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjjpku&layout=compact&theme=tokyonight)
 
 ---
 
