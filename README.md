@@ -22,13 +22,6 @@ Currently, I'm leading the **Academic Department of the Student Union**, buildin
 
 ---
 
-## 📈 GitHub Stats
-![Justin Wu's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjjpku&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjjpku&layout=compact&theme=tokyonight)
-
----
-
 ## ✨ Goals
 - Combine **mathematical thinking** with **Machine Learning**  
 - Build projects that are **rigorous, useful, and fun**  
