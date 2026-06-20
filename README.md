@@ -1,32 +1,37 @@
-# Hey there 👋
+# Hi, I'm Jiaju Wu
 
-I'm **Justin Wu**, an undergraduate at the **School of Mathematical Sciences, Peking University (since 2024)**.  
-Currently, I'm leading the **Academic Department of the Student Union**, building its official website and organizing academic activities.  
+I'm an undergraduate student at Peking University, studying mathematics and building things around machine learning, web products, and small games.
 
----
+Currently, I care most about understanding how models learn — from symbolic grokking experiments to LLM loss curve prediction.
 
-## 🚀 About Me
-- 🌐 **Web Development**: Developer and maintainer of the Student Union Academic Department website.  
-- 🤖 **AI Enthusiast**: Learning **Deep Learning** and **Reinforcement Learning** — always open for discussion and collaboration.  
-- 🎮 **Game Development**: Creating games with **Godot Engine**, including a simple 2D side-scrolling action game.  
+## Projects
 
----
+**Research / ML**
 
-## 🛠️ Tech & Tools
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Godot](https://img.shields.io/badge/-Godot-478CBF?logo=godot-engine&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+* [`DL-final`](https://github.com/wjjpku/DL-final): loss curve prediction under different learning-rate schedules.
+* [`Modelmid`](https://github.com/wjjpku/Modelmid): math-solution authorship classification across human and LLM-generated answers.
+* [`ML-final`](https://github.com/wjjpku/ML-final): small Transformer experiments on modular arithmetic, group operations, and grokking.
 
----
+**Web / Product**
 
-## ✨ Goals
-- Combine **mathematical thinking** with **Machine Learning**  
-- Build projects that are **rigorous, useful, and fun**  
-- Let more students in pku know about **Academic Department of the Student Union**  🌍  
+* [`Academic-Department-Website`](https://github.com/wjjpku/Academic-Department-Website): official website for the Academic Department of SMS Student Union, PKU.
+* [`SmartTime`](https://github.com/wjjpku/SmartTime): an AI-assisted task and calendar management tool.
+* [`wjjpku.github.io`](https://github.com/wjjpku/wjjpku.github.io): personal website.
 
----
+**Fun stuff**
 
-💬 *Always happy to connect and talk about math, AI, or game development!*
+* [`UncleDucky`](https://github.com/wjjpku/UncleDucky): a fictional chat-style management game.
+* [`Candle of Faith`](https://github.com/wjjpku/Candle-of-Faith-Game-developed-by-godot): a Godot side-scrolling game made for a course project.
+* [`PKUsmsExam`](https://github.com/wjjpku/PKUsmsExam): an archive of past exams for PKU math courses.
+
+## Tech I use
+
+Python / PyTorch / TypeScript / React / Vite / Tailwind CSS / Supabase / LaTeX / Godot
+
+## Current focus
+
+```text
+research:  LLM loss curves, learning-rate schedules, grokking
+building:  academic tools, AI-assisted productivity apps, small games
+taste:     math first, product second, decoration last
+```
